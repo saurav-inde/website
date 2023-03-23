@@ -1,166 +1,1234 @@
 {
-    "events": [
+  "events": [
+    {
+      "day1": [
         {
-            "day1": [
-                {
-                    "imageLink": "...",
-                    "title": "PUBG",
-                    "time": "10:00 AM",
-                    "venue": "Cl3",
-                    "registration_link":"",
-                    "coordinators": [
-                        {
-                            "name": "Z",
-                            "email": "Z",
-                            "phone": "Z"
-                        },
-                        {
-                            "name": "z",
-                            "email": "z",
-                            "phone": "z"
-                        }
-                    ],
-                    "description": {
-                        "rules": ["z", "Z", "z"],
-                        "about": "Competetive CSGO Tournament",
-                        "extra": ""
-                    },
-                    "status": "True"
-                },
-                {
-                    "imageLink": "...",
-                    "title": "CS-GO",
-                    "time": "10:00 AM",
-                    "venue": "Cl3",
-                    "registration_link":"",
-                    "coordinators": [
-                        {
-                            "name": "Z",
-                            "email": "Z",
-                            "phone": "Z"
-                        },
-                        {
-                            "name": "z",
-                            "email": "z",
-                            "phone": "z"
-                        }
-                    ],
-                    "description": {
-                        "rules": ["z", "Z", "z"],
-                        "about": "dfgjtrhytfdhg",
-                        "extra": ""
-                    },
-                    "status": "True"
-                }
-            ]
+          "imageLink": "",
+          "title": "Spoil the T-shirt",
+          "tagline": "",
+          "time": "9 AM - 12 AM",
+          "venue": "",
+          "registration_link": "",
+          "coordinators": [
+            {
+              "name": "Priya Jain",
+              "email": "",
+              "phone": ""
+            },
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            }
+          ],
+          "description": {
+            "rules": [
+              "This event is open for all students.",
+              "  Teams of 3 can participate.",
+              "  Teams need to fill the google form that will be sent via mail. From each      team    only one individual needs to fill the form on behalf of the team before the deadline mentioned in mail.",
+              " A bucket full of water,a balloon packet,and a water gun will be provided to the team",
+              "One member of team will fill the colour-ful water in the balloon & pass it to the  member who will throw the balloon to the opponent team’s t-shirt ",
+              "One member of the team will have to protect his/her t-shirt from the opponent team’s attack",
+              "The teams will have to convey the name of the participant and the task they will perform.",
+              "The match will be knockout match of two minutes ,in which the players  can move to the specified area as described by the volunteers of the game ",
+              "In these two minutes the team will have to protect his/her  t-shirt and attack the tshirt of the opponent team member",
+              "At last the team member who has the least colour on his/her  t-shirt will win the game and move to the next round",
+              "The final decision will be taken by the judges.",
+              "Players must play in a fair and sportsmanlike manner, and respect the other."
+            ],
+            "about": "",
+            "extra": ""
+          },
+          "status": ""
         },
         {
-            "day2": [
-                {
-                    "imageLink": "...",
-                    "title": "CS-GO",
-                    "time": "10:00 AM",
-                    "venue": "Cl3",
-                    "registration_link":"",
-                    "coordinators": [
-                        {
-                            "name": "Z",
-                            "email": "Z",
-                            "phone": "Z"
-                        },
-                        {
-                            "name": "z",
-                            "email": "z",
-                            "phone": "z"
-                        }
-                    ],
-                    "description": {
-                        "rules": ["z", "Z", "z"],
-                        "about": "dfgdfgdfgdfdsre",
-                        "extra": ""
-                    },
-                    "status": "True"
-                },
-                {
-                    "imageLink": "...",
-                    "title": "CS-GO",
-                    "time": "10:00 AM",
-                    "venue": "Cl3",
-                    "registration_link":"",
-                    "coordinators": [
-                        {
-                            "name": "Z",
-                            "email": "Z",
-                            "phone": "Z"
-                        },
-                        {
-                            "name": "z",
-                            "email": "z",
-                            "phone": "z"
-                        }
-                    ],
-                    "description": {
-                        "rules": ["z", "Z", "z"],
-                        "about": "dffgdsfdsf",
-                        "extra": ""
-                    },
-                    "status": "True"
-                }
-            ]
+          "imageLink": "CSGO + BGMI",
+          "title": "",
+          "tagline": "",
+          "time": "09:00 - 12:00",
+          "venue": "",
+          "registration_link": "",
+          "coordinators": [
+            {
+              "name": "Harsh Shrivastav",
+              "email": "b210048@nitsikkim.ac.in",
+              "phone": "7985692734"
+            },
+            {
+              "name": "Riyan Gonsalves",
+              "email": "",
+              "phone": ""
+            }
+          ],
+          "description": {
+            "rules": [
+              "The registration will be done via google forms",
+              "The matches will be done in squad(4 members)",
+              "The registered teams will be divided into group of 25 teams (if more than 25 teams join)",
+              "The groups will compete among themselves in an unranked match",
+              "3 matches will be played in the following maps: Erangel, Miramar, Then to break the tie we will do it in Erangel",
+              "10 squads will qualify from each group",
+              "Matches will be played in Livik to decide the winner."
+            ],
+            "about": "",
+            "extra": ""
+          },
+          "status": ""
         },
         {
-            "day3": [
-                {
-                    "imageLink": "...",
-                    "title": "CS-GO",
-                    "time": "10:00 AM",
-                    "venue": "Cl3",
-                    "registration_link":"",
-                    "coordinators": [
-                        {
-                            "name": "Z",
-                            "email": "Z",
-                            "phone": "Z"
-                        },
-                        {
-                            "name": "z",
-                            "email": "z",
-                            "phone": "z"
-                        }
-                    ],
-                    "description": {
-                        "rules": ["z", "Z", "z"],
-                        "about": "game11",
-                        "extra": ""
-                    },
-                    "status": "True"
-                },
-                {
-                    "imageLink": "...",
-                    "title": "CS-GO",
-                    "time": "10:00 AM",
-                    "venue": "Cl3",
-                    "registration_link":"",
-                    "coordinators": [
-                        {
-                            "name": "Z",
-                            "email": "Z",
-                            "phone": "Z"
-                        },
-                        {
-                            "name": "z",
-                            "email": "z",
-                            "phone": "z"
-                        }
-                    ],
-                    "description": {
-                        "rules": ["z", "Z", "z"],
-                        "about": "game 2",
-                        "extra": ""
-                    },
-                    "status": "True"
-                }
-            ]
+          "imageLink": "",
+          "title": "Rangoli",
+          "tagline": "",
+          "time": "9.00 Am - 12.00",
+          "venue": "",
+          "registration_link": "",
+          "coordinators": [
+            {
+              "name": "Saumya Ranjan",
+              "email": "",
+              "phone": ""
+            },
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            }
+          ],
+          "description": {
+            "rules": [
+              "This competition is for everyone in the college.",
+              "There will be 7 teams. Interested students can form a team of minimum 2 and maximum 4  participants",
+              "Maximum time to complete the Rangoli is three hours. ",
+              "The competition will start from 9:00am to 12:00pm",
+              "Coordinators will be responsible for arrangement of the materials required for Rangoli.",
+              "The participants will be allowed to refer to any printed material etc. for preparing Rangoli.",
+              "Rangoli Theme - “college life”",
+              "Limited registrations on a first come first serve basis. ",
+              "At first, all the participants will be given an equal amount of materials for rangoli, later they can for the materials as per their requirement."
+            ],
+            "about": "",
+            "extra": ""
+          },
+          "status": ""
+        },
+        {
+          "imageLink": "",
+          "title": "Auctions",
+          "tagline": "",
+          "time": "10:00 - 12:00",
+          "venue": "",
+          "registration_link": "",
+          "coordinators": [
+            {
+              "name": "Harsh Shrivastav",
+              "email": "",
+              "phone": ""
+            },
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            }
+          ],
+          "description": {
+            "rules": [
+              "google forms would be  provided for registration",
+              "200 players will be available in the  auction for IPL Players.",
+              "Players are selected on the basis of their performance in IPL.",
+              "Each team should have 3-5 members in their team.and also decide the name  of the team.",
+              "Each team can spend up to 60 crores during the auction. Failing to spend within the limit will lead to disqualification.",
+              "Each player available for auction has some attributes from 0-100 (0 is worst and 100 is best) on the basis of their stats in IPL. The detailed performance of each player will be shown to you on the projector.",
+              "Each team should at least manage to have 15 players (with minimum 5 batsmen, 5 bowlers, and 1 wicketkeeper) in their squad failing, which will automatically disqualify them.",
+              "The base price for the first 20 players will be 2 crores. The team can bid any amount of money they want to spend for the player on sale. However, the bid should not be more than 20% of the previous bid.",
+              "The base price for the next 50 players will be 1 crore. The team can bid any amount of money they want to spend for the player on sale.",
+              "The base price for the next 60 players will be 50 lakhs.The team can bid any amount of money they want to spend for the player on sale.",
+              "The base price for the next 70 players will be 20 lakhs. The team can bid any value of money they want to spend for the player on sale.",
+              "The unsold players will once again participate in the auction will the base price of 10 lakhs."
+            ],
+            "about": "",
+            "extra": ""
+          },
+          "status": ""
+        },
+        {
+          "imageLink": "",
+          "title": "Wall Painting",
+          "tagline": "",
+          "time": "09:00 - 18:00",
+          "venue": "",
+          "registration_link": "",
+          "coordinators": [
+            {
+              "name": "Bhanuja karumuru",
+              "email": "",
+              "phone": ""
+            },
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            }
+          ],
+          "description": {
+            "rules": [
+              "Teams of 3-4 can participate.",
+              "Teams need to fill the google form that will be sent via mail. From each team only one individual needs to fill the form on behalf of the team before the deadline mentioned in mail.",
+              "Wall painting will be the second phase of the competition.",
+              "To be qualified for the wall painting competition there will be a qualifier round where you need to compete to get qualified in a painting competition in a team and submit over google form regarding which you’ll be informed at the earliest.    ",
+              "In the qualifier round your team needs to paint the art on a drawing sheet that you’ll be wanting to paint on the wall for the final round.",
+              "In the final round, you will be given a part of the wall to paint and a period time ( 9.00 AM to 6.00 PM ) and you can work on your painting anytime in the allocated slot.",
+              "Except the team members no one is allowed to help in the competition, if found the team will be disqualified.",
+              "There is no barrier for the teams for not participating in the other competitions during the slot but you need to be responsible for your painting and at least one from the team needs to be present near the painting.",
+              "Team should make sure to complete the painting in the allocated time."
+            ],
+            "about": "",
+            "extra": ""
+          },
+          "status": ""
+        },
+        {
+          "imageLink": "",
+          "title": "Offline Ludo",
+          "tagline": "",
+          "time": "2.00 Pm - 5.00",
+          "venue": "",
+          "registration_link": "",
+          "coordinators": [
+            {
+              "name": "Amrisha Nigam",
+              "email": "",
+              "phone": ""
+            },
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            }
+          ],
+          "description": {
+            "rules": [
+              "16 players (four of each color i.e. 4 teams) and each team will wear their respective colour T-shirts or bands will be provided.",
+              "Different team colours will be Red,Blue,Green and Yellow, which team will get which colour will be decided on basis of chit system..",
+              "There will be one large dice with six sides",
+              "The objective of the game is to be the first team to move all their players from their starting point to the center of the board.",
+              "A player  can open up and start moving when the player rolls a six on the dice. Rolling a six allows the team to take one of their players from the starting point and move it onto the first square of the board.",
+              "Once a player  is on the board, it can be moved forward by rolling the dice and moving the player  the number of squares indicated by the number on the dice. If the player rolls a six, they can either move a new player out of the starting point or move one of their existing players forward.",
+              "All four players must be moved out of the starting point before any of them can be moved forward on the board. If a player rolls a number that cannot be used to move any of their players on the board, they must pass their turn to the next player.",
+              "Players take turns rolling the dice and the player will move around the board in a clockwise direction.",
+              "The number on the dice determines the number of spaces the player  must move.",
+              "If a player rolls a six, they get another turn.",
+              "If a player lands on a space occupied by an opponent, the opponent player is sent back to its starting point and will be given a dare using the chit system. This is known as 'cutting' the opponent.",
+              "A player must travel around the board in a clockwise direction and reach the center of the board to win the game.",
+              "If a player reaches the center of the board, they must roll the exact number required to reach the center. If they do not roll the exact number, player must remain at the same position.",
+              "The game ends when all  players of a single team  have  reached the center of the board.",
+              "If a player rolls three sixes in a row, their turn is skipped, and the next player gets to play.",
+              "Players must play in a fair and sportsmanlike manner, and respect the other players."
+            ],
+            "about": "",
+            "extra": ""
+          },
+          "status": ""
+        },
+        {
+          "imageLink": "",
+          "title": "valorant",
+          "tagline": "",
+          "time": "14:00-17:00",
+          "venue": "",
+          "registration_link": "",
+          "coordinators": [
+            {
+              "name": "Harsh Shrivastav",
+              "email": "",
+              "phone": ""
+            },
+            {
+              "name": "Riyan Gonsalves",
+              "email": "",
+              "phone": ""
+            }
+          ],
+          "description": {
+            "rules": [],
+            "about": "",
+            "extra": ""
+          },
+          "status": ""
+        },
+        {
+          "imageLink": "",
+          "title": "rubiks Cube",
+          "tagline": "",
+          "time": "15:00-15:30",
+          "venue": "",
+          "registration_link": "",
+          "coordinators": [
+            {
+              "name": "Sudharshan",
+              "email": "",
+              "phone": ""
+            },
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            }
+          ],
+          "description": {
+            "rules": [
+              "The participants will be provided with google forms",
+              "They must bring their own cube",
+              "It is a must for the contestant to be on time for the tournament.",
+              "10 Sec of time will be given for analyzing the cube before starting the game.",
+              "A graze time of 5 Sec will also be given before starting the game.",
+              "Don’t start the game without the timer.",
+              "the corners of the cubes are meant to be turned well if twisted it is considered disqualified.",
+              "If more than one part with one colored face is not solved, the puzzle is considered unsolved",
+              "If the cube is broken while solving, you will not be provided with a new cube.",
+              "The judge's decision would be final.",
+              "Don’t open the box in which the cube is placed until you are ready, which is designed by a scrambler (formula being used)",
+              "The start time and end time would be according to the Indian standard time, a clock will be placed and the time would be calculated as per the shown time.",
+              "Competitors may use cameras at the solving place"
+            ],
+            "about": "",
+            "extra": ""
+          },
+          "status": ""
+        },
+        {
+          "imageLink": "",
+          "title": "Singing Competition",
+          "tagline": "",
+          "time": "",
+          "venue": "",
+          "registration_link": "",
+          "coordinators": [
+            {
+              "name": "Priya Jain",
+              "email": "",
+              "phone": ""
+            },
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            }
+          ],
+          "description": {
+            "rules": [
+              "The event is open for all students.",
+              "They have to register through google form sent via mail.",
+              "Participants can enter as a team(duo ,trio,any) or solo",
+              "Participants will be performing on bollywood or patriotic",
+              "All performers will be allowed to perform live on stage for minimum of 2 minutes and maximum up to 4 minutes.",
+              "Maximum 2 persons can accompany the singer for instrumental support.",
+              "Instrument list( that college can provide) Harmonium",
+              "Instrumental music(karaoke),if any,shall be mandatorily submitted to the google form sent to them via mail, file format should be mp3.",
+              "Please have a back- up of your music.",
+              " Please make sure the  song is clean/family friendly.",
+              "The judging will be based on Voice quality,Stage presence/audience communication,Entertainment",
+              "The decision of judges will be final.",
+              "Winner will have to perform on the day of cultural night."
+            ],
+            "about": "",
+            "extra": ""
+          },
+          "status": ""
+        },
+        {
+          "imageLink": "",
+          "title": "Ramp Walk",
+          "tagline": "",
+          "time": "",
+          "venue": "",
+          "registration_link": "",
+          "coordinators": [
+            {
+              "name": "Riyansh Sharma",
+              "email": "",
+              "phone": ""
+            },
+            {
+              "name": "Nikila",
+              "email": "",
+              "phone": ""
+            }
+          ],
+          "description": {
+            "rules": [],
+            "about": "",
+            "extra": ""
+          },
+          "status": ""
+        },
+
+        {
+          "imageLink": "",
+          "title": "Nukkad Natak Paralelly",
+          "tagline": "",
+          "time": "",
+          "venue": "",
+          "registration_link": "",
+          "coordinators": [
+            {
+              "name": "Swetha Patel",
+              "email": "",
+              "phone": ""
+            },
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            }
+          ],
+          "description": {
+            "rules": [
+              "The performance should be based on the theme of the event i.e.,Political issues on India",
+              "Students who are interested can register themselves through google form which will be shared via mail.",
+              "All the registered students will get an opportunity to perform according to their talent.",
+              "Mics/ microphones/ speakers will not be allowed during the play",
+              "Use of any abusive/obscene language is prohibited. "
+            ],
+            "about": "",
+            "extra": ""
+          },
+          "status": ""
+        },
+
+        {
+          "imageLink": "",
+          "title": "Food Fiesta",
+          "tagline": "",
+          "time": "",
+          "venue": "",
+          "registration_link": "",
+          "coordinators": [
+            {
+              "name": "Swetha Patel",
+              "email": "",
+              "phone": ""
+            },
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            }
+          ],
+          "description": {
+            "rules": [
+              "There will be 6 teams. ",
+              "A team should consist of 4 members. ",
+              "Total time of the contest will be two and half hours.",
+              "Limited registrations on a first come first serve basis. ",
+              "Round 1  “taste test” rules below",
+              "Contestants will get two dishes , one being an Indian         dish and the other Being continental.",
+              "You are required to list down the ingredients you",
+              "think are used to create the dish.",
+              " You will get 15 minutes for that",
+              "Top 4 teams will move to round 2",
+              "Round 2  “cook together” rules below",
+              "This round will last for 60 minutes.",
+              "The participants have to bring their own ingredients. You are required to create only one dish.",
+              "However, all members of the team will cook  together",
+              "The final tasting will be done by the judges"
+            ],
+            "about": "",
+            "extra": ""
+          },
+          "status": ""
         }
-    ]
+      ]
+    },
+    {
+      "day2": [
+        {
+          "imageLink": "",
+          "title": "Csgo + Bgmi",
+          "tagline": "",
+          "time": "09:00-12:00",
+          "venue": "",
+          "registration_link": "",
+          "coordinators": [
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            },
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            }
+          ],
+          "description": {
+            "rules": [],
+            "about": "",
+            "extra": ""
+          },
+          "status": ""
+        },
+        {
+          "imageLink": "",
+          "title": "Treasure Hunt",
+          "tagline": "",
+          "time": "10:00 - 13:00",
+          "venue": "",
+          "registration_link": "",
+          "coordinators": [
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            },
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            }
+          ],
+          "description": {
+            "rules": [
+              "Teams of 4 can participate.",
+              "Teams need to fill the google form that will be sent via mail. From each team only one individual needs to fill the form on behalf of the team before the deadline mentioned in mail.",
+              "Competition will be conducted in 2 rounds: Qualifier round and the final round.",
+              "QUALIFIER ROUND RULES: ",
+              "Teams will be participating together to get qualified for the next round.",
+              "All teams will be assigned a team number prior to the competition.",
+              "There will be 2 bowls; one having the chits of all team numbers and other will be question numbers of chits of puzzles or riddles. There will be a pdf of questions which will be provided just before the competition starts.",
+              "All teams will be gathered and here there will be a bowl containing all team numbers and randomly a team will be picked. One from the picked team will come forward to choose 3 chits from the puzzle bowl and will wait till all teams take theirs",
+              ".After all getting their share of three puzzles, they will go to the team and all teams at once will start solving the puzzles, teams will be checking the pdf for questions and teams will be given a time of 15min to solve.",
+              "It's the team's wish how many to solve and when to submit in the duration of 15min the answers and one volunteer will be sitting at front and one from each team representing the team will be coming to the volunteer maintaining the queue that means first come first serve basis to submit the answers all at once for 3 puzzles.",
+              "All the scores with team number will be noted down at the time of submission and results will be announced accordingly. Top 15 will be considered for the next round.",
+              "FINAL ROUND - TREASURE HUNT:"
+            ],
+            "about": "",
+            "extra": ""
+          },
+          "status": ""
+        },
+        {
+          "imageLink": "",
+          "title": "Antakshari",
+          "tagline": "",
+          "time": "",
+          "venue": "",
+          "registration_link": "",
+          "coordinators": [
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            },
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            }
+          ],
+          "description": {
+            "rules": [
+              "There will be 6 teams. ",
+              "A team should consist of five members. ",
+              "Total time of the contest will be two and half hours.",
+              "There will be four rounds of different modes."
+            ],
+            "about": "",
+            "extra": ""
+          },
+          "status": ""
+        },
+        {
+          "imageLink": "",
+          "title": "Dumb Charades",
+          "tagline": "",
+          "time": "",
+          "venue": "",
+          "registration_link": "",
+          "coordinators": [
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            },
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            }
+          ],
+          "description": {
+            "rules": [],
+            "about": "",
+            "extra": ""
+          },
+          "status": ""
+        },
+        {
+          "imageLink": "",
+          "title": "Valorant",
+          "tagline": "",
+          "time": "14:00 - 17:00",
+          "venue": "",
+          "registration_link": "",
+          "coordinators": [
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            },
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            }
+          ],
+          "description": {
+            "rules": [],
+            "about": "",
+            "extra": ""
+          },
+          "status": ""
+        },
+        {
+          "imageLink": "",
+          "title": "Face Painting",
+          "tagline": "",
+          "time": "15:00-18:00",
+          "venue": "",
+          "registration_link": "",
+          "coordinators": [
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            },
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            }
+          ],
+          "description": {
+            "rules": [
+              "Competition would be theme-based which shall be given on the spot.",
+              "The time frame allotted is of one and half hour",
+              "Decision of the jury is final",
+              "Team event (2 people – the one who will paint and the other whose face will be painted)",
+              "Participants will get  materials for painting on spot. ",
+              "Participants may not use photos or drawings to refer to while painting."
+            ],
+            "about": "",
+            "extra": ""
+          },
+          "status": ""
+        },
+        {
+          "imageLink": "",
+          "title": "Squid Game",
+          "tagline": "",
+          "time": "",
+          "venue": "",
+          "registration_link": "",
+          "coordinators": [
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            },
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            }
+          ],
+          "description": {
+            "rules": [
+              "All participants would be provided with google forms for registration.",
+              "The no. of participants will decide groups",
+              "At a time only 20 students will be able to participate.",
+              "The no. of participants crossing the line within the given time limit will  qualify for next round",
+              "At first 10 mins will be provided. Next round 5 and next 3 mins",
+              "The green light suggests that music is being played and red light suggests that music is  not played.",
+              "If a player is found moving when red light is turned on then the volunteers will through water ballon(laser point out) to eliminate the player. "
+            ],
+            "about": "",
+            "extra": ""
+          },
+          "status": ""
+        },
+        {
+          "imageLink": "",
+          "title": "Jetshen Lama Performance",
+          "tagline": "",
+          "time": "19:00 - 20:00",
+          "venue": "",
+          "registration_link": "",
+          "coordinators": [
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            },
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            }
+          ],
+          "description": {
+            "rules": [],
+            "about": "",
+            "extra": ""
+          },
+          "status": ""
+        },
+        {
+          "imageLink": "",
+          "title": "Band/ EDM Night",
+          "tagline": "",
+          "time": "21:00 - 23:00",
+          "venue": "",
+          "registration_link": "",
+          "coordinators": [
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            },
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            }
+          ],
+          "description": {
+            "rules": [],
+            "about": "",
+            "extra": ""
+          },
+          "status": ""
+        },
+        {
+          "imageLink": "",
+          "title": "Nukkad Natak Paralelly",
+          "tagline": "",
+          "time": "",
+          "venue": "",
+          "registration_link": "",
+          "coordinators": [
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            },
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            }
+          ],
+          "description": {
+            "rules": [
+              "The performance should be based on the theme of the event i.e.,Political issues on India",
+              "Students who are interested can register themselves through google form which will be shared via mail.",
+              "All the registered students will get an opportunity to perform according to their talent.",
+              "Mics/ microphones/ speakers will not be allowed during the play",
+              "Use of any abusive/obscene language is prohibited. "
+            ],
+            "about": "",
+            "extra": ""
+          },
+          "status": ""
+        },
+        {
+          "imageLink": "",
+          "title": "Food Fiesta",
+          "tagline": "",
+          "time": "",
+          "venue": "",
+          "registration_link": "",
+          "coordinators": [
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            },
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            }
+          ],
+          "description": {
+            "rules": [
+              "There will be 6 teams. ",
+              "A team should consist of 4 members. ",
+              "Total time of the contest will be two and half hours.",
+              "Limited registrations on a first come first serve basis. ",
+              "Round 1  “taste test” rules below",
+              "Contestants will get two dishes , one being an Indian         dish and the other Being continental.",
+              "You are required to list down the ingredients you",
+              "think are used to create the dish.",
+              " You will get 15 minutes for that",
+              "Top 4 teams will move to round 2",
+              "Round 2  “cook together” rules below",
+              "This round will last for 60 minutes.",
+              "The participants have to bring their own ingredients. You are required to create only one dish.",
+              "However, all members of the team will cook  together",
+              "The final tasting will be done by the judges"
+            ],
+            "about": "",
+            "extra": ""
+          },
+          "status": ""
+        }
+      ]
+    },
+    {
+      "day3": [
+        {
+          "imageLink": "",
+          "title": "Movie Trivia",
+          "tagline": "",
+          "time": "22:30 - 00:00",
+          "venue": "",
+          "registration_link": "",
+          "coordinators": [
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            },
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            }
+          ],
+          "description": {
+            "rules": [
+              "This event is open for all students.",
+              "Teams of 3 can participate.",
+              "Teams need to fill the google form that will be sent via mail. From each      team    only one individual needs to fill the form on behalf of the team before the deadline mentioned in mail.",
+              "Final decision will be taken by judges.",
+              "Round 1 RULES",
+              "In this round each team has its own quota of 4 questions and other questions passed to it from the previous team that did not answer. ",
+              "A team gets 30 seconds to answer the question intended for it, and is awarded 20 points for answering it.",
+              "If the team, the question intended for giving  a wrong answer, the quiz master will give the correct answer. ",
+              "If the team that the question intended for passes it. The next team/s get 15 seconds to answer it and is awarded 10 points for the right answer",
+              "The team members can discuss before giving the answer. ",
+              "If a team cannot answer a question they can pass it or after 30 seconds it gets automatically passed to the next team.",
+              " If a team is answering a question and the time passes, then the team gets to complete the answer and is awarded points for the right answer.",
+              " There is no negative marking for wrong answer.",
+              "ROUND 2 RULES",
+              "Rapid Fire Round – Each team quota of 10 questions.",
+              " In this round each team will be asked 10 questions one after another. ",
+              "On the immediate completion of a question, each team gets 5 seconds to answer it. ",
+              "If a team is not able to answer a question, they can pass it for the next question.",
+              " There is no team discussion in this round. 10 points is awarded for the correct answer. ",
+              "No negative points for the wrong answer. Once a question is passed the team cannot give an answer later. ",
+              "ROUND 3 RULES",
+              "Audio-visual round – 1 question each. Each Team will be shown a picture with a quotation.",
+              " The team has to complete the quotation.",
+              " The team has 15 seconds to complete the quotation. ",
+              "The teams will be made to listen to an audio clip. ",
+              "The team has to guess the name of the song or sing certain lines from the song as asked by the quiz master. Questions will not be passed to the next team"
+            ],
+            "about": "",
+            "extra": ""
+          },
+          "status": ""
+        },
+        {
+          "imageLink": "",
+          "title": "Movie Spoof",
+          "tagline": "",
+          "time": "",
+          "venue": "",
+          "registration_link": "",
+          "coordinators": [
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            },
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            }
+          ],
+          "description": {
+            "rules": [
+              "This event is open to all students.",
+              "Team size can be 10 to 15 members.",
+              "This movie scene can be taken from any Bollywood or Hollywood movie. ",
+              "Participants need to record their movie scene video along with a movie name and scene.",
+              "The movie shall be suitable for all audiences: No obscenity, no nudity, no excessive violence shall be entertained.",
+              "Video clips should be a minimum of 5-7 minutes.",
+              "Video can be taken from any device.",
+              "Videos with Full HD 1080p or 720p and 16:9 aspect ratios would be better. ",
+              "The narrator must be enlisted as a performing member. ",
+              "The video submission will be done two days prior to the fest."
+            ],
+            "about": "",
+            "extra": ""
+          },
+          "status": ""
+        },
+        {
+          "imageLink": "",
+          "title": "Talk Show",
+          "tagline": "",
+          "time": "15:00 - 16:00",
+          "venue": "",
+          "registration_link": "",
+          "coordinators": [
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            },
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            }
+          ],
+          "description": {
+            "rules": [],
+            "about": "",
+            "extra": ""
+          },
+          "status": ""
+        },
+        {
+          "imageLink": "",
+          "title": "Stand-up Comedy",
+          "tagline": "",
+          "time": "16:00 - 17:00",
+          "venue": "",
+          "registration_link": "",
+          "coordinators": [
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            },
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            }
+          ],
+          "description": {
+            "rules": [],
+            "about": "",
+            "extra": ""
+          },
+          "status": ""
+        },
+        {
+          "imageLink": "",
+          "title": "Open Mic",
+          "tagline": "",
+          "time": "17:00 - 20:00",
+          "venue": "",
+          "registration_link": "",
+          "coordinators": [
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            },
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            }
+          ],
+          "description": {
+            "rules": [
+              "This event is open to all the students who are talented in Rapping , Poetry , Beatboxing ,story telling.",
+              "Students taking part in the events should register prior to the fest through the google form which will be shared . On spot entry is not obliged.",
+              "Students can participate individually or in teams",
+              "Team should be comprise of two members.",
+              "A total time of 3 + 1 minutes is allotted to each participant. ",
+              "No use of abusive language/foul language is permitted.",
+              "No dark humor content is permitted.",
+              "No inappropriate double entendres are permitted. ",
+              "Participants can choose either hindi or english language. ",
+              "Participants are to stick to the time limit strictly. ",
+              "No inappropriate comments should be made that could hurt a community’s sentiments pertaining to their religious beliefs, race, sex, culture or heritage during the gig. "
+            ],
+            "about": "",
+            "extra": ""
+          },
+          "status": ""
+        },
+        {
+          "imageLink": "",
+          "title": "DJ Night",
+          "tagline": "",
+          "time": "21:00 - 23:00",
+          "venue": "",
+          "registration_link": "",
+          "coordinators": [
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            },
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            }
+          ],
+          "description": {
+            "rules": [],
+            "about": "",
+            "extra": ""
+          },
+          "status": ""
+        },
+        {
+          "imageLink": "",
+          "title": "Nukkad Natak Paralelly",
+          "tagline": "",
+          "time": "",
+          "venue": "",
+          "registration_link": "",
+          "coordinators": [
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            },
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            }
+          ],
+          "description": {
+            "rules": [
+              "The performance should be based on the theme of the event i.e.,Political issues on India",
+              "Students who are interested can register themselves through google form which will be shared via mail.",
+              "All the registered students will get an opportunity to perform according to their talent.",
+              "Mics/ microphones/ speakers will not be allowed during the play",
+              "Use of any abusive/obscene language is prohibited. "
+            ],
+            "about": "",
+            "extra": ""
+          },
+          "status": ""
+        },
+        {
+          "imageLink": "",
+          "title": "Food Fiesta",
+          "tagline": "",
+          "time": "",
+          "venue": "",
+          "registration_link": "",
+          "coordinators": [
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            },
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            }
+          ],
+          "description": {
+            "rules": [
+              "There will be 6 teams. ",
+              "A team should consist of 4 members. ",
+              "Total time of the contest will be two and half hours.",
+              "Limited registrations on a first come first serve basis. ",
+              "Round 1  “taste test” rules below",
+              "Contestants will get two dishes , one being an Indian dish and the other Being continental.",
+              "You are required to list down the ingredients you",
+              "think are used to create the dish.",
+              " You will get 15 minutes for that",
+              "Top 4 teams will move to round 2",
+              "Round 2  “cook together” rules below",
+              "This round will last for 60 minutes.",
+              "The participants have to bring their own ingredients. You are required to create only one dish.",
+              "However, all members of the team will cook  together",
+              "The final tasting will be done by the judges"
+            ],
+            "about": "",
+            "extra": ""
+          },
+          "status": ""
+        },
+        {
+          "imageLink": "",
+          "title": "Cultural Night",
+          "tagline": "",
+          "time": "17:00 - 20:00",
+          "venue": "",
+          "registration_link": "",
+          "coordinators": [
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            },
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            }
+          ],
+          "description": {
+            "rules": [],
+            "about": "",
+            "extra": ""
+          },
+          "status": ""
+        },
+        {
+          "imageLink": "",
+          "title": "Instrumental",
+          "tagline": "",
+          "time": "17:00 - 20:00",
+          "venue": "",
+          "registration_link": "",
+          "coordinators": [
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            },
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            }
+          ],
+          "description": {
+            "rules": [],
+            "about": "",
+            "extra": ""
+          },
+          "status": ""
+        },
+        {
+          "imageLink": "",
+          "title": "short Film Festival",
+          "tagline": "",
+          "time": "12:00 - 13:00",
+          "venue": "",
+          "registration_link": "",
+          "coordinators": [
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            },
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            }
+          ],
+          "description": {
+            "rules": [
+              "This event is open to all students.",
+              "Your short film should contain a theme along with a name.",
+              "The team size can be 10 to 15 members.",
+              "Short film time range can be 10-15 minutes.",
+              "This movie can be made in Hindi or English. No other language is allowed.",
+              "Video can be taken from any device.",
+              "No spoofs, animations are allowed.",
+              "The soft copies of the movie wall posters are to be sent along with the film.",
+              "Short films with Full HD 1080p or 720p and 16:9 aspect ratios would be better. ",
+              "During the screening, the spokesperson or any person related to the movie must be present. ",
+              "Offensive language or scenes are not encouraged and hence if it is observed the whole team will be disqualified.",
+              "Neither cuss words nor vulgarism should be witnessed.",
+              "The video submission will be done two days prior to the fest."
+            ],
+            "about": "",
+            "extra": ""
+          },
+          "status": ""
+        },
+        {
+          "imageLink": "",
+          "title": "Photography Contest",
+          "tagline": "",
+          "time": "12:00 - 13:00",
+          "venue": "",
+          "registration_link": "",
+          "coordinators": [
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            },
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            }
+          ],
+          "description": {
+            "rules": [
+              "The contests are open for online submissions only, through the google form provided by the team.",
+              "Submissions will not be accepted once the deadline lapses.",
+              "Photos submitted must be at least 640 pixels on the shorter side, and no more than 2000 pixels on the longer side. Images should be no larger than 50MB. Photos must be in JPEG or RAW format and clicked through phone.",
+              "One participant can send a maximum of 2 entries.",
+              "You are required to provide a unique title & description for each image submitted and also the phone model from which it is clicked.",
+              "All submitted photos must contain the original EXIF metadata information. However there must be no border(s), logo(s), copyright marks, identifying marks, or any other visible references and/or marks on the image.",
+              "Basic editing, including color enhancement, the use of filters, and cropping of the Photo(s) is acceptable, provided any such editing does not affect the authenticity and/or genuineness of the Photo(s).",
+              "Advanced editing used to create illusions, deceptions and/or manipulations, and the adding and removing of significant elements within the frame is prohibited.",
+              "Photos that portray or otherwise include inappropriate and/or offensive content, including provocative nudity, violence, human rights and/or environmental violation, and/or any other contents deemed to be contrary to the law, religious, cultural & moral traditions and practices of India, are strictly prohibited and will be immediately discarded.",
+              " A participant who submits any such photos may be permanently banned from participating in any future contests."
+            ],
+            "about": "",
+            "extra": ""
+          },
+          "status": ""
+        },
+        {
+          "imageLink": "",
+          "title": "Comic Designing",
+          "tagline": "",
+          "time": "12:00 - 13:00",
+          "venue": "",
+          "registration_link": "",
+          "coordinators": [
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            },
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            }
+          ],
+          "description": {
+            "rules": [
+              "Event is open for all",
+              "Interested participants need to register themselves through the google form which will be sent. ",
+              "Competition will be of 1.5 hr duration in which the participants need to complete their comic.",
+              "Format for representation, 4 partitions in a page in which you need to show your idea for the comic story/ perspective. You can use one/ more pages, can be colored or black and white. ",
+              "There is no limitation for the number of pages, but there is a time constraint.",
+              "All scenes of horror, excessive bloodshed, gory or gruesome crimes, depravity, lust, sadism, masochism shall not be permitted. All lurid, unsavory, gruesome illustrations shall be eliminated. "
+            ],
+            "about": "",
+            "extra": ""
+          },
+          "status": ""
+        }
+      ]
+    }
+  ]
 }
