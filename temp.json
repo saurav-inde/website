@@ -3,7 +3,7 @@
     {
       "day1": [
         {
-          "imageLink": "https://drive.google.com/file/d/1yVRBPF_uREaxnYnhgAcizYaGjwL50XPa/view?usp=share_link",
+          "imageLink": "https://drive.google.com/file/d/1nvgarKGIfVioGVehGdZzz9-EetVT-j6a/view?usp=share_link",
           "title": "Spoil the T-shirt",
           "tagline": "",
           "time": "9 AM - 12 PM",
@@ -12,8 +12,8 @@
           "coordinators": [
             {
               "name": "Priya Jain",
-              "email": "",
-              "phone": ""
+              "email": "b200156@nitsikkim.ac.in",
+              "phone": "9931972929"
             },
             {
               "name": "",
@@ -42,10 +42,10 @@
           "status": ""
         },
         {
-          "imageLink": "CSGO + BGMI",
-          "title": "",
+          "imageLink": "https://drive.google.com/file/d/15ttv-HY6K2D12-ISfcfkjM7yRkJubQkZ/view?usp=share_link",
+          "title": "BGMI",
           "tagline": "",
-          "time": "09:00 - 12:00",
+          "time": "09 AM- 12 PM",
           "venue": "",
           "registration_link": "",
           "coordinators": [
@@ -76,17 +76,43 @@
           "status": ""
         },
         {
-          "imageLink": "",
-          "title": "Rangoli",
+          "imageLink": "https://drive.google.com/file/d/1czmRz5M02qd3c2V1UaB5yazL49WwyaPp/view?usp=share_link",
+          "title": "Csgo",
           "tagline": "",
-          "time": "9.00 Am - 12.00",
+          "time": "09 AM 12 PM",
+          "venue": "",
+          "registration_link": "",
+          "coordinators": [
+            {
+              "name": "Harsh Srivastav",
+              "email": "b210048@nitsikkim.ac.in",
+              "phone": "7985692734"
+            },
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            }
+          ],
+          "description": {
+            "rules": [],
+            "about": "",
+            "extra": ""
+          },
+          "status": ""
+        },
+        {
+          "imageLink": "https://drive.google.com/file/d/131pqLfuc0NCZmtzujHHzjmWDnCANpcPP/view?usp=share_link",
+          "title": "Rangotsav",
+          "tagline": "Rango ki Rangoli",
+          "time": "9 AM - 12 PM",
           "venue": "",
           "registration_link": "",
           "coordinators": [
             {
               "name": "Saumya Ranjan",
-              "email": "",
-              "phone": ""
+              "email": "b210027@nitsikkim.ac.in",
+              "phone": "7667194470"
             },
             {
               "name": "",
@@ -112,16 +138,16 @@
           "status": ""
         },
         {
-          "imageLink": "",
-          "title": "Auctions",
+          "imageLink": "https://drive.google.com/file/d/1oorbRvYNhMgy7eFy7XxtSYGG8M8ugdHD/view?usp=share_link",
+          "title": "Hammer House",
           "tagline": "",
-          "time": "10:00 - 12:00",
+          "time": "10 AM - 12 PM",
           "venue": "",
           "registration_link": "",
           "coordinators": [
             {
               "name": "Harsh Shrivastav",
-              "email": "",
+              "email": "b210048@nitsikkim.ac.in",
               "phone": ""
             },
             {
@@ -151,17 +177,17 @@
           "status": ""
         },
         {
-          "imageLink": "",
+          "imageLink": "https://drive.google.com/file/d/1agXaQQOS78eD4SIFEGfgHhG2yPTLV2sG/view?usp=share_link",
           "title": "Wall Painting",
           "tagline": "",
-          "time": "09:00 - 18:00",
-          "venue": "",
+          "time": "9 AM- 6 PM",
+          "venue": "Multi Purpose Hall(MPH)",
           "registration_link": "",
           "coordinators": [
             {
               "name": "Bhanuja karumuru",
-              "email": "",
-              "phone": ""
+              "email": "b200087@nitsikkim.ac.in",
+              "phone": "9014127370"
             },
             {
               "name": "",
@@ -187,17 +213,17 @@
           "status": ""
         },
         {
-          "imageLink": "",
+          "imageLink": "https://drive.google.com/file/d/1cEbVpOKKwdfJO5BkY1rc3lDuItb_vREw/view?usp=share_link",
           "title": "Offline Ludo",
-          "tagline": "",
-          "time": "2.00 Pm - 5.00",
-          "venue": "",
+          "tagline": "Compete to Conquer",
+          "time": "2 PM- 5 PM",
+          "venue": "Badminton Court",
           "registration_link": "",
           "coordinators": [
             {
               "name": "Amrisha Nigam",
-              "email": "",
-              "phone": ""
+              "email": "b200046@nitsikkim.ac.in",
+              "phone": "8570066049"
             },
             {
               "name": "",
@@ -230,10 +256,10 @@
           "status": ""
         },
         {
-          "imageLink": "",
+          "imageLink": "https://drive.google.com/file/d/1O0taeNsOFXeWIDvosjIsrciY2zJujgx5/view?usp=share_link",
           "title": "valorant",
           "tagline": "",
-          "time": "14:00-17:00",
+          "time": "2 PM-5 PM",
           "venue": "",
           "registration_link": "",
           "coordinators": [
@@ -256,10 +282,10 @@
           "status": ""
         },
         {
-          "imageLink": "",
+          "imageLink": "https://drive.google.com/file/d/1vfsliwlUrcnVuGP8uydVlU06akFktkA6/view?usp=share_link",
           "title": "rubiks Cube",
           "tagline": "",
-          "time": "15:00-15:30",
+          "time": "3:00 PM - 3:30 PM",
           "venue": "",
           "registration_link": "",
           "coordinators": [
@@ -296,17 +322,17 @@
           "status": ""
         },
         {
-          "imageLink": "",
-          "title": "Singing Competition",
+          "imageLink": "https://drive.google.com/file/d/1CYPlj-ij61QlAlheCqEEvmXHgllPjMqX/view?usp=share_link",
+          "title": "Voiceastra",
           "tagline": "",
           "time": "",
-          "venue": "",
+          "venue": "Multi Purpose Hall(MPH)",
           "registration_link": "",
           "coordinators": [
             {
               "name": "Priya Jain",
-              "email": "",
-              "phone": ""
+              "email": "b200156@nitsikkim.ac.in",
+              "phone": "9931972929"
             },
             {
               "name": "",
@@ -363,8 +389,8 @@
         },
 
         {
-          "imageLink": "",
-          "title": "Nukkad Natak Paralelly",
+          "imageLink": "https://drive.google.com/file/d/1jQXYvT3mqBNyYjAn9GXVznmTpQlcjOEL/view?usp=share_link",
+          "title": "Tamasha",
           "tagline": "",
           "time": "",
           "venue": "",
@@ -372,8 +398,8 @@
           "coordinators": [
             {
               "name": "Swetha Patel",
-              "email": "",
-              "phone": ""
+              "email": "b200158@nitsikkim.ac.in",
+              "phone": "9490873267"
             },
             {
               "name": "",
@@ -394,9 +420,34 @@
           },
           "status": ""
         },
-
         {
-          "imageLink": "",
+          "imageLink": "https://drive.google.com/file/d/1d4sj4oBNO3oEMIJgfr9GiJT38bozmwCs/view?usp=share_link",
+          "title": "Tambola Stall",
+          "tagline": "",
+          "time": "",
+          "venue": "",
+          "registration_link": "",
+          "coordinators": [
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            },
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            }
+          ],
+          "description": {
+            "rules": [],
+            "about": "",
+            "extra": ""
+          },
+          "status": ""
+        },
+        {
+          "imageLink": "https://drive.google.com/file/d/1zR8fEWzaS-nQ4C0oh7B2n9o3SvumOsj7/view?usp=share_link",
           "title": "Food Fiesta",
           "tagline": "",
           "time": "",
@@ -442,10 +493,44 @@
     {
       "day2": [
         {
-          "imageLink": "",
-          "title": "Csgo + Bgmi",
+          "imageLink": "https://drive.google.com/file/d/15ttv-HY6K2D12-ISfcfkjM7yRkJubQkZ/view?usp=share_link",
+          "title": "BGMI",
           "tagline": "",
-          "time": "09:00-12:00",
+          "time": "9 PM - 12 PM",
+          "venue": "",
+          "registration_link": "",
+          "coordinators": [
+            {
+              "name": "Harsh Shrivastav",
+              "email": "b210048@nitsikkim.ac.in",
+              "phone": "7985692734"
+            },
+            {
+              "name": "Riyan Gonsalves",
+              "email": "",
+              "phone": ""
+            }
+          ],
+          "description": {
+            "rules": [
+              "The registration will be done via google forms",
+              "The matches will be done in squad(4 members)",
+              "The registered teams will be divided into group of 25 teams (if more than 25 teams join)",
+              "The groups will compete among themselves in an unranked match",
+              "3 matches will be played in the following maps: Erangel, Miramar, Then to break the tie we will do it in Erangel",
+              "10 squads will qualify from each group",
+              "Matches will be played in Livik to decide the winner."
+            ],
+            "about": "",
+            "extra": ""
+          },
+          "status": ""
+        },
+        {
+          "imageLink": "https://drive.google.com/file/d/1czmRz5M02qd3c2V1UaB5yazL49WwyaPp/view?usp=share_link",
+          "title": "Csgo",
+          "tagline": "",
+          "time": "9 PM - 12 PM",
           "venue": "",
           "registration_link": "",
           "coordinators": [
@@ -468,20 +553,20 @@
           "status": ""
         },
         {
-          "imageLink": "",
-          "title": "Treasure Hunt",
-          "tagline": "",
-          "time": "10:00 - 13:00",
-          "venue": "",
+          "imageLink": "https://drive.google.com/file/d/1ISCC4sYiwDGMdYLbPTAetg71tJNUKXCv/view?usp=share_link",
+          "title": "Taalash",
+          "tagline": "The Thrill of the Chase!; Seek and Uncover!",
+          "time": "10 AM - 1 PM",
+          "venue": "Multi Purpose Hall(MPH)",
           "registration_link": "",
           "coordinators": [
             {
-              "name": "",
-              "email": "",
-              "phone": ""
+              "name": "BHANUJA KARUMURU",
+              "email": "b200087@nitsikkim.ac.in",
+              "phone": "9014127370"
             },
             {
-              "name": "",
+              "name": "SWETHA",
               "email": "",
               "phone": ""
             }
@@ -507,17 +592,17 @@
           "status": ""
         },
         {
-          "imageLink": "",
+          "imageLink": "https://drive.google.com/file/d/1sHHyG4eTtTCYitPA2pM3RaOM5KUfX0-N/view?usp=share_link",
           "title": "Antakshari",
-          "tagline": "",
+          "tagline": "Rock Off and Rave on",
           "time": "",
           "venue": "",
           "registration_link": "",
           "coordinators": [
             {
-              "name": "",
-              "email": "",
-              "phone": ""
+              "name": "Saumya Ranjan",
+              "email": "b210027@nitsikkim.ac.in",
+              "phone": "7667194470"
             },
             {
               "name": "",
@@ -564,10 +649,10 @@
           "status": ""
         },
         {
-          "imageLink": "",
+          "imageLink": "https://drive.google.com/file/d/1O0taeNsOFXeWIDvosjIsrciY2zJujgx5/view?usp=share_link",
           "title": "Valorant",
           "tagline": "",
-          "time": "14:00 - 17:00",
+          "time": "2 PM- 5 PM",
           "venue": "",
           "registration_link": "",
           "coordinators": [
@@ -590,17 +675,17 @@
           "status": ""
         },
         {
-          "imageLink": "",
-          "title": "Face Painting",
+          "imageLink": "https://drive.google.com/file/d/1Iixl4InkemfWScw4pftTo0gyFgGvxjwO/view?usp=share_link",
+          "title": "Kalanjali",
           "tagline": "",
-          "time": "15:00-18:00",
+          "time": "3 PM - 6 PM",
           "venue": "",
           "registration_link": "",
           "coordinators": [
             {
-              "name": "",
-              "email": "",
-              "phone": ""
+              "name": "Saumya Ranjan",
+              "email": "b210027@nitsikkim.ac.in",
+              "phone": "7667194470"
             },
             {
               "name": "",
@@ -631,8 +716,8 @@
           "registration_link": "",
           "coordinators": [
             {
-              "name": "",
-              "email": "",
+              "name": "JAEL L DAIMARI",
+              "email": "b210135@nitsikkim.ac.in",
               "phone": ""
             },
             {
@@ -660,7 +745,7 @@
           "imageLink": "",
           "title": "Jetshen Lama Performance",
           "tagline": "",
-          "time": "19:00 - 20:00",
+          "time": "7 PM - 8 PM",
           "venue": "",
           "registration_link": "",
           "coordinators": [
@@ -668,6 +753,32 @@
               "name": "",
               "email": "",
               "phone": ""
+            },
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            }
+          ],
+          "description": {
+            "rules": [],
+            "about": "",
+            "extra": ""
+          },
+          "status": ""
+        },
+        {
+          "imageLink": "https://drive.google.com/file/d/1K8Q6P3-Pz-yzTigAStOHVCJnDWth9Wel/view?usp=share_link",
+          "title": "Scribble It",
+          "tagline": "Draw your way to victory",
+          "time": "3 PM - 3:45 PM",
+          "venue": "",
+          "registration_link": "",
+          "coordinators": [
+            {
+              "name": "Dhanisetty Sai Anvitha",
+              "email": "b200065@nitsikkim.ac.in",
+              "phone": "9392484584"
             },
             {
               "name": "",
@@ -686,7 +797,7 @@
           "imageLink": "",
           "title": "Band/ EDM Night",
           "tagline": "",
-          "time": "21:00 - 23:00",
+          "time": "9 PM - 11 PM",
           "venue": "",
           "registration_link": "",
           "coordinators": [
@@ -709,17 +820,17 @@
           "status": ""
         },
         {
-          "imageLink": "",
-          "title": "Nukkad Natak Paralelly",
+          "imageLink": "https://drive.google.com/file/d/1jQXYvT3mqBNyYjAn9GXVznmTpQlcjOEL/view?usp=share_link",
+          "title": "Tamasha",
           "tagline": "",
           "time": "",
           "venue": "",
           "registration_link": "",
           "coordinators": [
             {
-              "name": "",
-              "email": "",
-              "phone": ""
+              "name": "Swetha Patel",
+              "email": "b200158@nitsikkim.ac.in",
+              "phone": "9490873267"
             },
             {
               "name": "",
@@ -741,7 +852,33 @@
           "status": ""
         },
         {
-          "imageLink": "",
+          "imageLink": "https://drive.google.com/file/d/1d4sj4oBNO3oEMIJgfr9GiJT38bozmwCs/view?usp=share_link",
+          "title": "Tambola Stall",
+          "tagline": "",
+          "time": "",
+          "venue": "",
+          "registration_link": "",
+          "coordinators": [
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            },
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            }
+          ],
+          "description": {
+            "rules": [],
+            "about": "",
+            "extra": ""
+          },
+          "status": ""
+        },
+        {
+          "imageLink": "https://drive.google.com/file/d/1zR8fEWzaS-nQ4C0oh7B2n9o3SvumOsj7/view?usp=share_link",
           "title": "Food Fiesta",
           "tagline": "",
           "time": "",
@@ -788,9 +925,9 @@
       "day3": [
         {
           "imageLink": "",
-          "title": "Movie Trivia edited",
+          "title": "Bombay Talkies",
           "tagline": "",
-          "time": "22:30 - 00:00",
+          "time": "10:30 PM - 12 AM",
           "venue": "",
           "registration_link": "",
           "coordinators": [
@@ -840,17 +977,17 @@
           "status": ""
         },
         {
-          "imageLink": "",
-          "title": "Movie Spoof",
-          "tagline": "",
+          "imageLink": "https://drive.google.com/file/d/1N1VEMkXJ1rOFksARFO0fjsXEm_LrYiLy/view?usp=share_link",
+          "title": "Momentum",
+          "tagline": "Sholay ke chole",
           "time": "",
           "venue": "",
           "registration_link": "",
           "coordinators": [
             {
-              "name": "",
-              "email": "",
-              "phone": ""
+              "name": "Dhanisetty Sai Anvitha",
+              "email": "b200065@nitsikkim.ac.in",
+              "phone": "9392484584"
             },
             {
               "name": "",
@@ -880,7 +1017,7 @@
           "imageLink": "",
           "title": "Talk Show",
           "tagline": "",
-          "time": "15:00 - 16:00",
+          "time": "3 PM - 4 PM",
           "venue": "",
           "registration_link": "",
           "coordinators": [
@@ -906,7 +1043,7 @@
           "imageLink": "",
           "title": "Stand-up Comedy",
           "tagline": "",
-          "time": "16:00 - 17:00",
+          "time": "4 PM - 5 PM",
           "venue": "",
           "registration_link": "",
           "coordinators": [
@@ -929,17 +1066,17 @@
           "status": ""
         },
         {
-          "imageLink": "",
-          "title": "Open Mic",
+          "imageLink": "https://drive.google.com/file/d/1SwMxFvS0vdtSBzETQ5qjBNM4JmX21z04/view?usp=share_link",
+          "title": "ALFAZ",
           "tagline": "",
-          "time": "17:00 - 20:00",
-          "venue": "",
+          "time": "5 PM - 8 PM",
+          "venue": "Basket Ball Ground",
           "registration_link": "",
           "coordinators": [
             {
-              "name": "",
-              "email": "",
-              "phone": ""
+              "name": "Swetha Patel",
+              "email": "b200158@nitsikkim.ac.in",
+              "phone": "9490873267"
             },
             {
               "name": "",
@@ -967,10 +1104,10 @@
           "status": ""
         },
         {
-          "imageLink": "",
+          "imageLink": "https://drive.google.com/file/d/1X5UXgdiC_4yuzj2d5-nxC93yggKJpKep/view?usp=share_link",
           "title": "DJ Night",
           "tagline": "",
-          "time": "21:00 - 23:00",
+          "time": "9 PM - 11 PM",
           "venue": "",
           "registration_link": "",
           "coordinators": [
@@ -993,17 +1130,17 @@
           "status": ""
         },
         {
-          "imageLink": "",
-          "title": "Nukkad Natak Paralelly",
+          "imageLink": "https://drive.google.com/file/d/1jQXYvT3mqBNyYjAn9GXVznmTpQlcjOEL/view?usp=share_link",
+          "title": "Tamasha",
           "tagline": "",
           "time": "",
           "venue": "",
           "registration_link": "",
           "coordinators": [
             {
-              "name": "",
-              "email": "",
-              "phone": ""
+              "name": "Swetha Patel",
+              "email": "b200158@nitsikkim.ac.in",
+              "phone": "9490873267"
             },
             {
               "name": "",
@@ -1025,17 +1162,17 @@
           "status": ""
         },
         {
-          "imageLink": "",
+          "imageLink": "https://drive.google.com/file/d/1zR8fEWzaS-nQ4C0oh7B2n9o3SvumOsj7/view?usp=share_link",
           "title": "Food Fiesta",
-          "tagline": "",
+          "tagline": "festival of flavors",
           "time": "",
           "venue": "",
           "registration_link": "",
           "coordinators": [
             {
-              "name": "",
-              "email": "",
-              "phone": ""
+              "name": "Saumya Ranjan",
+              "email": "b210027@nitsikkim.ac.in",
+              "phone": "7667194470"
             },
             {
               "name": "",
@@ -1067,10 +1204,10 @@
           "status": ""
         },
         {
-          "imageLink": "",
+          "imageLink": "https://drive.google.com/file/d/1sRUqX1AN_RzPAYAuD2k9MXHWYH8-U_b3/view?usp=share_link",
           "title": "Cultural Night",
           "tagline": "",
-          "time": "17:00 - 20:00",
+          "time": "5 PM - 8 PM",
           "venue": "",
           "registration_link": "",
           "coordinators": [
@@ -1096,7 +1233,7 @@
           "imageLink": "",
           "title": "Instrumental",
           "tagline": "",
-          "time": "17:00 - 20:00",
+          "time": "5 PM - 8 PM",
           "venue": "",
           "registration_link": "",
           "coordinators": [
@@ -1119,17 +1256,17 @@
           "status": ""
         },
         {
-          "imageLink": "",
-          "title": "short Film Festival",
-          "tagline": "",
-          "time": "12:00 - 13:00",
+          "imageLink": "https://drive.google.com/file/d/1C7fMeL-sBlBtI72XmLDWm8uw_QSrTveh/view?usp=share_link",
+          "title": "Box Office",
+          "tagline": "step into the spotlight",
+          "time": "12 PM - 1 PM",
           "venue": "",
           "registration_link": "",
           "coordinators": [
             {
-              "name": "",
-              "email": "",
-              "phone": ""
+              "name": "Dhanisetty Sai Anvitha",
+              "email": "b200065@nitsikkim.ac.in",
+              "phone": "9392484584"
             },
             {
               "name": "",
@@ -1159,17 +1296,17 @@
           "status": ""
         },
         {
-          "imageLink": "",
-          "title": "Photography Contest",
-          "tagline": "",
-          "time": "12:00 - 13:00",
+          "imageLink": "https://drive.google.com/file/d/1jKpYjNIh-qUgTCwoIJGwHpRw0OR9JjCZ/view?usp=share_link",
+          "title": "Drishya",
+          "tagline": "Captured Moments",
+          "time": "12 PM - 1 PM",
           "venue": "",
           "registration_link": "",
           "coordinators": [
             {
-              "name": "",
-              "email": "",
-              "phone": ""
+              "name": "Amrisha Nigam",
+              "email": "b200046@nitsikkim.ac.in",
+              "phone": "8570066049"
             },
             {
               "name": "",
@@ -1196,10 +1333,10 @@
           "status": ""
         },
         {
-          "imageLink": "",
-          "title": "Comic Designing",
+          "imageLink": "https://drive.google.com/file/d/1d4sj4oBNO3oEMIJgfr9GiJT38bozmwCs/view?usp=share_link",
+          "title": "Tambola Stall",
           "tagline": "",
-          "time": "12:00 - 13:00",
+          "time": "",
           "venue": "",
           "registration_link": "",
           "coordinators": [
@@ -1207,6 +1344,32 @@
               "name": "",
               "email": "",
               "phone": ""
+            },
+            {
+              "name": "",
+              "email": "",
+              "phone": ""
+            }
+          ],
+          "description": {
+            "rules": [],
+            "about": "",
+            "extra": ""
+          },
+          "status": ""
+        },
+        {
+          "imageLink": "https://drive.google.com/file/d/1oFvTXut3ROJ6rsElDA0U_iDHp6AaaXEJ/view?usp=share_link",
+          "title": "Comic Designing",
+          "tagline": "Snap! Crackle! Comic!",
+          "time": "12 PM - 1 PM",
+          "venue": "Multi Purpose Hall(MPH)",
+          "registration_link": "",
+          "coordinators": [
+            {
+              "name": "BHANUJA KARUMURU",
+              "email": "b200087@nitsikkim.ac.in",
+              "phone": "9014127370"
             },
             {
               "name": "",
