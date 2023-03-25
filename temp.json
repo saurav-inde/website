@@ -4,10 +4,10 @@
         "day1": [
           {
             "imageLink": "https://drive.google.com/uc?export=download&id=1PpUCg8U0YkedIPYmm2NtLXt00JsdBJt2",
-            "registration_link": "",
+            "registration_link": "Dummy",
             "rule_book": "https://drive.google.com/file/d/1mQsSZNpaT2slDcOIPP05Eb_N8XG1_byC/view?usp=sharing",
             "title": "Spoil the T-shirt",
-            "tagline": "",
+            "tagline": "Dummy",
             "time": "9 AM - 12 PM",
             "venue": "MPH",
             "name1": "Priya Jain",
@@ -22,7 +22,7 @@
             "imageLink": "https://drive.google.com/uc?export=download&id=15ttv-HY6K2D12-ISfcfkjM7yRkJubQkZ",
             "title": "BGMI",
             "registration_link": "https://docs.google.com/forms/d/e/1FAIpQLScTgHL4P2gkq90db6zrad865ywGgrYkWqRGs9AfnU2wvU_hJg/viewform?usp=sf_link",
-            "tagline": "",
+            "tagline": "Dummy",
             "time": "9 AM - 12 PM",
             "venue": "MPH",
             "rule_book": "https://drive.google.com/file/d/1mQsSZNpaT2slDcOIPP05Eb_N8XG1_byC/view?usp=sharing",
@@ -37,9 +37,9 @@
           {
             "imageLink": "https://drive.google.com/uc?export=download&id=1czmRz5M02qd3c2V1UaB5yazL49WwyaPp",
             "title": "Csgo",
-            "tagline": "",
+            "tagline": "Dummy",
             "time": "09 AM 12 PM",
-            "venue": "",
+            "venue": "Dummy",
             "registration_link": "",
             "rule_book": "https://drive.google.com/file/d/1mQsSZNpaT2slDcOIPP05Eb_N8XG1_byC/view?usp=sharing",
             "name1": "Priya Jain",
@@ -89,34 +89,14 @@
             "time": "9 AM- 6 PM",
             "venue": "Multi Purpose Hall(MPH)",
             "registration_link": "Dummy",
-            "coordinators": [
-              {
-                "name": "Bhanuja karumuru",
-                "email": "b200087@nitsikkim.ac.in",
-                "phone": "9014127370"
-              },
-              {
-                "name": "",
-                "email": "",
-                "phone": ""
-              }
-            ],
-            "description": {
-              "rules": [
-                "Teams of 3-4 can participate.",
-                "Teams need to fill the google form that will be sent via mail. From each team only one individual needs to fill the form on behalf of the team before the deadline mentioned in mail.",
-                "Wall painting will be the second phase of the competition.",
-                "To be qualified for the wall painting competition there will be a qualifier round where you need to compete to get qualified in a painting competition in a team and submit over google form regarding which you’ll be informed at the earliest.    ",
-                "In the qualifier round your team needs to paint the art on a drawing sheet that you’ll be wanting to paint on the wall for the final round.",
-                "In the final round, you will be given a part of the wall to paint and a period time ( 9.00 AM to 6.00 PM ) and you can work on your painting anytime in the allocated slot.",
-                "Except the team members no one is allowed to help in the competition, if found the team will be disqualified.",
-                "There is no barrier for the teams for not participating in the other competitions during the slot but you need to be responsible for your painting and at least one from the team needs to be present near the painting.",
-                "Team should make sure to complete the painting in the allocated time."
-              ],
-              "about": "",
-              "extra": ""
-            },
-            "status": ""
+            "rule_book":"",
+             "name1": "Bhanuja karumuru",
+             "email1": "b200087@nitsikkim.ac.in",
+             "phone1": "9014127370",             
+            "name2": "",
+            "email2": "",
+            "phone2": "",
+            "status":""
           },
           {
             "imageLink": "https://drive.google.com/uc?export=download&id=1cEbVpOKKwdfJO5BkY1rc3lDuItb_vREw",
