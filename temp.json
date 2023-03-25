@@ -4,42 +4,19 @@
         "day1": [
           {
             "imageLink": "https://drive.google.com/uc?export=download&id=1PpUCg8U0YkedIPYmm2NtLXt00JsdBJt2",
+            "registration_link": "https://docs.google.com/forms/d/e/1FAIpQLScTgHL4P2gkq90db6zrad865ywGgrYkWqRGs9AfnU2wvU_hJg/viewform?usp=sf_link",
+            "rule_book": "https://drive.google.com/file/d/1mQsSZNpaT2slDcOIPP05Eb_N8XG1_byC/view?usp=sharing",
             "title": "Spoil the T-shirt",
             "tagline": "",
             "time": "9 AM - 12 PM",
-            "venue": "",
-            "registration_link": "https://docs.google.com/forms/d/e/1FAIpQLScTgHL4P2gkq90db6zrad865ywGgrYkWqRGs9AfnU2wvU_hJg/viewform?usp=sf_link",
-            "coordinators": [
-              {
-                "name": "Priya Jain",
-                "email": "b200156@nitsikkim.ac.in",
-                "phone": "9931972929"
-              },
-              {
-                "name": "",
-                "email": "",
-                "phone": ""
-              }
-            ],
-            "description": {
-              "rules": [
-                "This event is open for all students.",
-                "  Teams of 3 can participate.",
-                "  Teams need to fill the google form that will be sent via mail. From each      team    only one individual needs to fill the form on behalf of the team before the deadline mentioned in mail.",
-                " A bucket full of water,a balloon packet,and a water gun will be provided to the team",
-                "One member of team will fill the colour-ful water in the balloon & pass it to the  member who will throw the balloon to the opponent team’s t-shirt ",
-                "One member of the team will have to protect his/her t-shirt from the opponent team’s attack",
-                "The teams will have to convey the name of the participant and the task they will perform.",
-                "The match will be knockout match of two minutes ,in which the players  can move to the specified area as described by the volunteers of the game ",
-                "In these two minutes the team will have to protect his/her  t-shirt and attack the tshirt of the opponent team member",
-                "At last the team member who has the least colour on his/her  t-shirt will win the game and move to the next round",
-                "The final decision will be taken by the judges.",
-                "Players must play in a fair and sportsmanlike manner, and respect the other."
-              ],
-              "about": "",
-              "extra": ""
-            },
-            "status": ""
+            "venue": "MPH",
+            "name1": "Priya Jain",
+            "email1": "b200156@nitsikkim.ac.in",
+            "phone1": "9931972929"
+            "name2": "",
+            "email2": "",
+            "phone2": ""
+            "status": "Register"
           },
           {
             "imageLink": "https://drive.google.com/uc?export=download&id=15ttv-HY6K2D12-ISfcfkjM7yRkJubQkZ",
