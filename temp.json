@@ -7,7 +7,7 @@
             "registration_link": "",
             "rule_book": "https://drive.google.com/file/d/1mQsSZNpaT2slDcOIPP05Eb_N8XG1_byC/view?usp=sharing",
             "title": "Spoil the T-shirt",
-            "tagline": "Dummy",
+            "tagline": "",
             "time": "9 AM - 12 PM",
             "venue": "MPH",
             "name1": "Priya Jain",
@@ -22,7 +22,7 @@
             "imageLink": "https://drive.google.com/uc?export=download&id=15ttv-HY6K2D12-ISfcfkjM7yRkJubQkZ",
             "title": "BGMI",
             "registration_link": "https://docs.google.com/forms/d/e/1FAIpQLScTgHL4P2gkq90db6zrad865ywGgrYkWqRGs9AfnU2wvU_hJg/viewform?usp=sf_link",
-            "tagline": "Dummy",
+            "tagline": "",
             "time": "9 AM - 12 PM",
             "venue": "MPH",
             "rule_book": "https://drive.google.com/file/d/1mQsSZNpaT2slDcOIPP05Eb_N8XG1_byC/view?usp=sharing",
@@ -37,9 +37,9 @@
           {
             "imageLink": "https://drive.google.com/uc?export=download&id=1czmRz5M02qd3c2V1UaB5yazL49WwyaPp",
             "title": "Csgo",
-            "tagline": "Dummy",
+            "tagline": "",
             "time": "09 AM 12 PM",
-            "venue": "Dummy",
+            "venue": "",
             "registration_link": "",
             "rule_book": "https://drive.google.com/file/d/1mQsSZNpaT2slDcOIPP05Eb_N8XG1_byC/view?usp=sharing",
             "name1": "Priya Jain",
@@ -55,7 +55,7 @@
             "title": "Rangotsav",
             "tagline": "Rango ki Rangoli",
             "time": "9 AM - 12 PM",
-            "venue": "Dummy",
+            "venue": "",
             "registration_link": "",
             "rule_book": "https://drive.google.com/file/d/1mQsSZNpaT2slDcOIPP05Eb_N8XG1_byC/view?usp=sharing",
             "name1": "Priya Jain",
@@ -85,18 +85,38 @@
           {
             "imageLink": "https://drive.google.com/uc?export=download&id=1agXaQQOS78eD4SIFEGfgHhG2yPTLV2sG",
             "title": "Wall Painting",
-            "tagline": "Dummy",
+            "tagline": "",
             "time": "9 AM- 6 PM",
             "venue": "Multi Purpose Hall(MPH)",
             "registration_link": "",
-            "rule_book":"",
-             "name1": "Bhanuja karumuru",
-             "email1": "b200087@nitsikkim.ac.in",
-             "phone1": "9014127370",             
-            "name2": "",
-            "email2": "",
-            "phone2": "",
-            "status":""
+            "coordinators": [
+              {
+                "name": "Bhanuja karumuru",
+                "email": "b200087@nitsikkim.ac.in",
+                "phone": "9014127370"
+              },
+              {
+                "name": "",
+                "email": "",
+                "phone": ""
+              }
+            ],
+            "description": {
+              "rules": [
+                "Teams of 3-4 can participate.",
+                "Teams need to fill the google form that will be sent via mail. From each team only one individual needs to fill the form on behalf of the team before the deadline mentioned in mail.",
+                "Wall painting will be the second phase of the competition.",
+                "To be qualified for the wall painting competition there will be a qualifier round where you need to compete to get qualified in a painting competition in a team and submit over google form regarding which you’ll be informed at the earliest.    ",
+                "In the qualifier round your team needs to paint the art on a drawing sheet that you’ll be wanting to paint on the wall for the final round.",
+                "In the final round, you will be given a part of the wall to paint and a period time ( 9.00 AM to 6.00 PM ) and you can work on your painting anytime in the allocated slot.",
+                "Except the team members no one is allowed to help in the competition, if found the team will be disqualified.",
+                "There is no barrier for the teams for not participating in the other competitions during the slot but you need to be responsible for your painting and at least one from the team needs to be present near the painting.",
+                "Team should make sure to complete the painting in the allocated time."
+              ],
+              "about": "",
+              "extra": ""
+            },
+            "status": ""
           },
           {
             "imageLink": "https://drive.google.com/uc?export=download&id=1cEbVpOKKwdfJO5BkY1rc3lDuItb_vREw",
@@ -146,7 +166,7 @@
             "title": "valorant",
             "tagline": "",
             "time": "2 PM-5 PM",
-            "venue": "Dummy",
+            "venue": "",
             "registration_link": "",
             "coordinators": [
               {
@@ -161,7 +181,7 @@
               }
             ],
             "description": {
-              "rules": ["Dummy"],
+              "rules": [],
               "about": "",
               "extra": ""
             },
@@ -211,7 +231,7 @@
             "imageLink": "https://drive.google.com/uc?export=download&id=1CYPlj-ij61QlAlheCqEEvmXHgllPjMqX",
             "title": "Voiceastra",
             "tagline": "",
-            "time": "Dummy",
+            "time": "",
             "venue": "Multi Purpose Hall(MPH)",
             "registration_link": "",
             "coordinators": [
@@ -417,13 +437,13 @@
             "title": "Csgo",
             "tagline": "",
             "time": "9 PM - 12 PM",
-            "venue": "Dummy",
+            "venue": "",
             "registration_link": "",
             "coordinators": [
               {
-                "name": "Dummy",
-                "email": "Dummy",
-                "phone": "Dummy"
+                "name": "",
+                "email": "",
+                "phone": ""
               },
               {
                 "name": "",
@@ -432,9 +452,9 @@
               }
             ],
             "description": {
-              "rules": ["Dummy"],
-              "about": "Dummy",
-              "extra": "Dummy"
+              "rules": [],
+              "about": "",
+              "extra": ""
             },
             "status": ""
           },
@@ -481,8 +501,8 @@
             "imageLink": "https://drive.google.com/uc?export=download&id=1sHHyG4eTtTCYitPA2pM3RaOM5KUfX0-N",
             "title": "Antakshari",
             "tagline": "Rock Off and Rave on",
-            "time": "Dummy",
-            "venue": "Dummy",
+            "time": "",
+            "venue": "",
             "registration_link": "",
             "coordinators": [
               {
@@ -511,15 +531,15 @@
           {
             "imageLink": "",
             "title": "Dumb Charades",
-            "tagline": "Dummy",
-            "time": "Dummy",
-            "venue": "Dummy",
-            "registration_link": "Dummy",
+            "tagline": "",
+            "time": "",
+            "venue": "",
+            "registration_link": "",
             "coordinators": [
               {
-                "name": "Dummy",
-                "email": "Dummy",
-                "phone": "Dummy"
+                "name": "",
+                "email": "",
+                "phone": ""
               },
               {
                 "name": "",
@@ -528,24 +548,24 @@
               }
             ],
             "description": {
-              "rules": ["Dummy"],
-              "about": "Dummy",
+              "rules": [],
+              "about": "",
               "extra": ""
             },
-            "status": "Dummy"
+            "status": ""
           },
           {
             "imageLink": "https://drive.google.com/uc?export=download&id=1O0taeNsOFXeWIDvosjIsrciY2zJujgx5",
             "title": "Valorant",
-            "tagline": "Dummy",
+            "tagline": "",
             "time": "2 PM- 5 PM",
-            "venue": "Dummy",
+            "venue": "",
             "registration_link": "",
             "coordinators": [
               {
-                "name": "Dummy",
-                "email": "Dummy",
-                "phone": "Dummy"
+                "name": "",
+                "email": "",
+                "phone": ""
               },
               {
                 "name": "",
@@ -554,19 +574,19 @@
               }
             ],
             "description": {
-              "rules": ["Dummy"],
-              "about": "Dummy",
-              "extra": "Dummy"
+              "rules": [],
+              "about": "",
+              "extra": ""
             },
             "status": ""
           },
           {
             "imageLink": "https://drive.google.com/uc?export=download&id=1Iixl4InkemfWScw4pftTo0gyFgGvxjwO",
             "title": "Kalanjali",
-            "tagline": "Dummy",
+            "tagline": "",
             "time": "3 PM - 6 PM",
-            "venue": "Dummy",
-            "registration_link": "Dummy",
+            "venue": "",
+            "registration_link": "",
             "coordinators": [
               {
                 "name": "Saumya Ranjan",
@@ -588,18 +608,18 @@
                 "Participants will get  materials for painting on spot. ",
                 "Participants may not use photos or drawings to refer to while painting."
               ],
-              "about": "Dummy",
-              "extra": "Dummy"
+              "about": "",
+              "extra": ""
             },
-            "status": "Dummy"
+            "status": ""
           },
           {
-            "imageLink": "Dummy",
+            "imageLink": "",
             "title": "Squid Game",
-            "tagline": "Dummy",
-            "time": "Dummy",
-            "venue": "Dummy",
-            "registration_link": "Dummy",
+            "tagline": "",
+            "time": "",
+            "venue": "",
+            "registration_link": "",
             "coordinators": [
               {
                 "name": "JAEL L DAIMARI",
@@ -622,23 +642,23 @@
                 "The green light suggests that music is being played and red light suggests that music is  not played.",
                 "If a player is found moving when red light is turned on then the volunteers will through water ballon(laser point out) to eliminate the player. "
               ],
-              "about": "Dummy",
-              "extra": "Dummy"
+              "about": "",
+              "extra": ""
             },
-            "status": "Dummy"
+            "status": ""
           },
           {
-            "imageLink": "Dummy",
+            "imageLink": "",
             "title": "Jetshen Lama Performance",
-            "tagline": "Dummy",
+            "tagline": "",
             "time": "7 PM - 8 PM",
-            "venue": "Dummy",
+            "venue": "",
             "registration_link": "",
             "coordinators": [
               {
-                "name": "Dummy",
-                "email": "Dummy",
-                "phone": "Dummy"
+                "name": "",
+                "email": "",
+                "phone": ""
               },
               {
                 "name": "",
@@ -647,9 +667,9 @@
               }
             ],
             "description": {
-              "rules": ["Dummy"],
-              "about": "Dummy",
-              "extra": "Dummy"
+              "rules": [],
+              "about": "",
+              "extra": ""
             },
             "status": ""
           },
@@ -658,8 +678,8 @@
             "title": "Scribble It",
             "tagline": "Draw your way to victory",
             "time": "3 PM - 3:45 PM",
-            "venue": "Dummy",
-            "registration_link": "Dummy",
+            "venue": "",
+            "registration_link": "",
             "coordinators": [
               {
                 "name": "Dhanisetty Sai Anvitha",
@@ -673,45 +693,45 @@
               }
             ],
             "description": {
-              "rules": ["Dummy"],
-              "about": "Dummy",
+              "rules": [],
+              "about": "",
               "extra": ""
             },
-            "status": "Dummy"
+            "status": ""
           },
           {
-            "imageLink": "Dummy",
+            "imageLink": "",
             "title": "Band/ EDM Night",
             "tagline": "",
             "time": "9 PM - 11 PM",
-            "venue": "Dummy",
-            "registration_link": "Dummy",
+            "venue": "",
+            "registration_link": "",
             "coordinators": [
               {
-                "name": "Dummy",
-                "email": "Dummy",
-                "phone": "Dummy"
+                "name": "",
+                "email": "",
+                "phone": ""
               },
               {
-                "name": "Dummy",
-                "email": "Dummy",
-                "phone": "Dummy"
+                "name": "",
+                "email": "",
+                "phone": ""
               }
             ],
             "description": {
-              "rules": ["Dummy"],
-              "about": "Dummy",
+              "rules": [],
+              "about": "",
               "extra": ""
             },
-            "status": "Dummy"
+            "status": ""
           },
           {
             "imageLink": "https://drive.google.com/uc?export=download&id=1jQXYvT3mqBNyYjAn9GXVznmTpQlcjOEL",
             "title": "Tamasha",
-            "tagline": "Dummy",
-            "time": "Dummy",
-            "venue": "Dummy",
-            "registration_link": "Dummy",
+            "tagline": "",
+            "time": "",
+            "venue": "",
+            "registration_link": "",
             "coordinators": [
               {
                 "name": "Swetha Patel",
@@ -732,23 +752,23 @@
                 "Mics/ microphones/ speakers will not be allowed during the play",
                 "Use of any abusive/obscene language is prohibited. "
               ],
-              "about": "Dummy",
-              "extra": "Dummy"
+              "about": "",
+              "extra": ""
             },
             "status": ""
           },
           {
             "imageLink": "https://drive.google.com/uc?export=download&id=1d4sj4oBNO3oEMIJgfr9GiJT38bozmwCs",
             "title": "Tambola Stall",
-            "tagline": "Dummy",
-            "time": "Dummy",
-            "venue": "Dummy",
-            "registration_link": "Dummy",
+            "tagline": "",
+            "time": "",
+            "venue": "",
+            "registration_link": "",
             "coordinators": [
               {
-                "name": "Dummy",
-                "email": "Dummy",
-                "phone": "Dummy"
+                "name": "",
+                "email": "",
+                "phone": ""
               },
               {
                 "name": "",
@@ -757,24 +777,24 @@
               }
             ],
             "description": {
-              "rules": ["Dummy:"],
-              "about": "Dummy",
-              "extra": "Dummy"
+              "rules": [],
+              "about": "",
+              "extra": ""
             },
-            "status": "Dummy"
+            "status": ""
           },
           {
             "imageLink": "https://drive.google.com/uc?export=download&id=1zR8fEWzaS-nQ4C0oh7B2n9o3SvumOsj7",
             "title": "Food Fiesta",
-            "tagline": "Dummy",
-            "time": "Dummy",
-            "venue": "Dummy",
-            "registration_link": "Dummy",
+            "tagline": "",
+            "time": "",
+            "venue": "",
+            "registration_link": "",
             "coordinators": [
               {
-                "name": "Dummy",
-                "email": "Dummy",
-                "phone": "Dummy"
+                "name": "",
+                "email": "",
+                "phone": ""
               },
               {
                 "name": "",
@@ -800,8 +820,8 @@
                 "However, all members of the team will cook  together",
                 "The final tasting will be done by the judges"
               ],
-              "about": "Dummy",
-              "extra": "Dummy"
+              "about": "",
+              "extra": ""
             },
             "status": ""
           }
@@ -812,15 +832,15 @@
           {
             "imageLink": "",
             "title": "Bombay Talkies",
-            "tagline": "Dummy",
+            "tagline": "",
             "time": "10:30 PM - 12 AM",
-            "venue": "Dummy",
-            "registration_link": "Dummy",
+            "venue": "",
+            "registration_link": "",
             "coordinators": [
               {
-                "name": "Dummy",
-                "email": "Dummy",
-                "phone": "Dummy"
+                "name": "",
+                "email": "",
+                "phone": ""
               },
               {
                 "name": "",
@@ -866,9 +886,9 @@
             "imageLink": "https://drive.google.com/uc?export=download&id=1N1VEMkXJ1rOFksARFO0fjsXEm_LrYiLy",
             "title": "Momentum",
             "tagline": "Sholay ke chole",
-            "time": "Dummy",
-            "venue": "Dummy",
-            "registration_link": "Dummy",
+            "time": "",
+            "venue": "",
+            "registration_link": "",
             "coordinators": [
               {
                 "name": "Dhanisetty Sai Anvitha",
@@ -902,15 +922,15 @@
           {
             "imageLink": "",
             "title": "Talk Show",
-            "tagline": "Dummy",
+            "tagline": "",
             "time": "3 PM - 4 PM",
-            "venue": "Dummy",
-            "registration_link": "Dummy",
+            "venue": "",
+            "registration_link": "",
             "coordinators": [
               {
-                "name": "Dummy",
-                "email": "Dummy",
-                "phone": "Dummy"
+                "name": "",
+                "email": "",
+                "phone": ""
               },
               {
                 "name": "",
@@ -919,24 +939,24 @@
               }
             ],
             "description": {
-              "rules": ["Dummy"],
-              "about": "Dummy",
-              "extra": "Dummy"
+              "rules": [],
+              "about": "",
+              "extra": ""
             },
             "status": ""
           },
           {
-            "imageLink": "Dummy",
+            "imageLink": "",
             "title": "Stand-up Comedy",
-            "tagline": "Dummy",
+            "tagline": "",
             "time": "4 PM - 5 PM",
-            "venue": "Dummy",
-            "registration_link": "Dummy",
+            "venue": "",
+            "registration_link": "",
             "coordinators": [
               {
-                "name": "Dummy",
-                "email": "Dummy",
-                "phone": "Dummy"
+                "name": "",
+                "email": "",
+                "phone": ""
               },
               {
                 "name": "",
@@ -945,11 +965,11 @@
               }
             ],
             "description": {
-              "rules": ["Dummy"],
-              "about": "Dummy",
+              "rules": [],
+              "about": "",
               "extra": ""
             },
-            "status": "Dummy"
+            "status": ""
           },
           {
             "imageLink": "https://drive.google.com/uc?export=download&id=1SwMxFvS0vdtSBzETQ5qjBNM4JmX21z04",
@@ -992,15 +1012,15 @@
           {
             "imageLink": "https://drive.google.com/uc?export=download&id=1X5UXgdiC_4yuzj2d5-nxC93yggKJpKep",
             "title": "DJ Night",
-            "tagline": "Dummy",
+            "tagline": "",
             "time": "9 PM - 11 PM",
-            "venue": "Dummy",
+            "venue": "",
             "registration_link": "",
             "coordinators": [
               {
-                "name": "Dummy",
-                "email": "Dummy",
-                "phone": "Dummy"
+                "name": "",
+                "email": "",
+                "phone": ""
               },
               {
                 "name": "",
@@ -1009,8 +1029,8 @@
               }
             ],
             "description": {
-              "rules": ["Dummy"],
-              "about": "Dummy",
+              "rules": [],
+              "about": "",
               "extra": ""
             },
             "status": ""
@@ -1018,10 +1038,10 @@
           {
             "imageLink": "https://drive.google.com/uc?export=download&id=1jQXYvT3mqBNyYjAn9GXVznmTpQlcjOEL",
             "title": "Tamasha",
-            "tagline": "Dummy",
-            "time": "Dummy",
-            "venue": "Dummy",
-            "registration_link": "Dummy",
+            "tagline": "",
+            "time": "",
+            "venue": "",
+            "registration_link": "",
             "coordinators": [
               {
                 "name": "Swetha Patel",
