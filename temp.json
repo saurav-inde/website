@@ -21,36 +21,18 @@
           {
             "imageLink": "https://drive.google.com/uc?export=download&id=15ttv-HY6K2D12-ISfcfkjM7yRkJubQkZ",
             "title": "BGMI",
+            "registration_link": "https://docs.google.com/forms/d/e/1FAIpQLScTgHL4P2gkq90db6zrad865ywGgrYkWqRGs9AfnU2wvU_hJg/viewform?usp=sf_link",
             "tagline": "",
-            "time": "09 AM- 12 PM",
-            "venue": "",
-            "registration_link": "",
-            "coordinators": [
-              {
-                "name": "Harsh Shrivastav",
-                "email": "b210048@nitsikkim.ac.in",
-                "phone": "7985692734"
-              },
-              {
-                "name": "Riyan Gonsalves",
-                "email": "",
-                "phone": ""
-              }
-            ],
-            "description": {
-              "rules": [
-                "The registration will be done via google forms",
-                "The matches will be done in squad(4 members)",
-                "The registered teams will be divided into group of 25 teams (if more than 25 teams join)",
-                "The groups will compete among themselves in an unranked match",
-                "3 matches will be played in the following maps: Erangel, Miramar, Then to break the tie we will do it in Erangel",
-                "10 squads will qualify from each group",
-                "Matches will be played in Livik to decide the winner."
-              ],
-              "about": "",
-              "extra": ""
-            },
-            "status": ""
+            "time": "9 AM - 12 PM",
+            "venue": "MPH",
+            "rule_book": "https://drive.google.com/file/d/1mQsSZNpaT2slDcOIPP05Eb_N8XG1_byC/view?usp=sharing",
+            "name1": "Priya Jain",
+            "email1": "b200156@nitsikkim.ac.in",
+            "phone1": "+919931972929"
+            "name2": "Dummy",
+            "email2": "dummy@gmail.com",
+            "phone2": "1234567891"
+            "status": "Register"
           },
           {
             "imageLink": "https://drive.google.com/uc?export=download&id=1czmRz5M02qd3c2V1UaB5yazL49WwyaPp",
@@ -59,24 +41,14 @@
             "time": "09 AM 12 PM",
             "venue": "",
             "registration_link": "",
-            "coordinators": [
-              {
-                "name": "Harsh Srivastav",
-                "email": "b210048@nitsikkim.ac.in",
-                "phone": "7985692734"
-              },
-              {
-                "name": "",
-                "email": "",
-                "phone": ""
-              }
-            ],
-            "description": {
-              "rules": [],
-              "about": "",
-              "extra": ""
-            },
-            "status": ""
+            "rule_book": "https://drive.google.com/file/d/1mQsSZNpaT2slDcOIPP05Eb_N8XG1_byC/view?usp=sharing",
+            "name1": "Priya Jain",
+            "email1": "b200156@nitsikkim.ac.in",
+            "phone1": "+919931972929"
+            "name2": "Dummy",
+            "email2": "dummy@gmail.com",
+            "phone2": "1234567891"
+            "status": "Register"
           },
           {
             "imageLink": "https://drive.google.com/uc?export=download&id=131pqLfuc0NCZmtzujHHzjmWDnCANpcPP",
@@ -85,34 +57,14 @@
             "time": "9 AM - 12 PM",
             "venue": "",
             "registration_link": "",
-            "coordinators": [
-              {
-                "name": "Saumya Ranjan",
-                "email": "b210027@nitsikkim.ac.in",
-                "phone": "7667194470"
-              },
-              {
-                "name": "",
-                "email": "",
-                "phone": ""
-              }
-            ],
-            "description": {
-              "rules": [
-                "This competition is for everyone in the college.",
-                "There will be 7 teams. Interested students can form a team of minimum 2 and maximum 4  participants",
-                "Maximum time to complete the Rangoli is three hours. ",
-                "The competition will start from 9:00am to 12:00pm",
-                "Coordinators will be responsible for arrangement of the materials required for Rangoli.",
-                "The participants will be allowed to refer to any printed material etc. for preparing Rangoli.",
-                "Rangoli Theme - “college life”",
-                "Limited registrations on a first come first serve basis. ",
-                "At first, all the participants will be given an equal amount of materials for rangoli, later they can for the materials as per their requirement."
-              ],
-              "about": "",
-              "extra": ""
-            },
-            "status": ""
+            "rule_book": "https://drive.google.com/file/d/1mQsSZNpaT2slDcOIPP05Eb_N8XG1_byC/view?usp=sharing",
+            "name1": "Priya Jain",
+            "email1": "b200156@nitsikkim.ac.in",
+            "phone1": "+919931972929"
+            "name2": "Dummy",
+            "email2": "dummy@gmail.com",
+            "phone2": "1234567891"
+            "status": "Register"
           },
           {
             "imageLink": "https://drive.google.com/uc?export=download&id=1oorbRvYNhMgy7eFy7XxtSYGG8M8ugdHD",
@@ -121,37 +73,14 @@
             "time": "10 AM - 12 PM",
             "venue": "",
             "registration_link": "",
-            "coordinators": [
-              {
-                "name": "Harsh Shrivastav",
-                "email": "b210048@nitsikkim.ac.in",
-                "phone": ""
-              },
-              {
-                "name": "",
-                "email": "",
-                "phone": ""
-              }
-            ],
-            "description": {
-              "rules": [
-                "google forms would be  provided for registration",
-                "200 players will be available in the  auction for IPL Players.",
-                "Players are selected on the basis of their performance in IPL.",
-                "Each team should have 3-5 members in their team.and also decide the name  of the team.",
-                "Each team can spend up to 60 crores during the auction. Failing to spend within the limit will lead to disqualification.",
-                "Each player available for auction has some attributes from 0-100 (0 is worst and 100 is best) on the basis of their stats in IPL. The detailed performance of each player will be shown to you on the projector.",
-                "Each team should at least manage to have 15 players (with minimum 5 batsmen, 5 bowlers, and 1 wicketkeeper) in their squad failing, which will automatically disqualify them.",
-                "The base price for the first 20 players will be 2 crores. The team can bid any amount of money they want to spend for the player on sale. However, the bid should not be more than 20% of the previous bid.",
-                "The base price for the next 50 players will be 1 crore. The team can bid any amount of money they want to spend for the player on sale.",
-                "The base price for the next 60 players will be 50 lakhs.The team can bid any amount of money they want to spend for the player on sale.",
-                "The base price for the next 70 players will be 20 lakhs. The team can bid any value of money they want to spend for the player on sale.",
-                "The unsold players will once again participate in the auction will the base price of 10 lakhs."
-              ],
-              "about": "",
-              "extra": ""
-            },
-            "status": ""
+            "rule_book": "https://drive.google.com/file/d/1mQsSZNpaT2slDcOIPP05Eb_N8XG1_byC/view?usp=sharing",
+            "name1": "Priya Jain",
+            "email1": "b200156@nitsikkim.ac.in",
+            "phone1": "+919931972929"
+            "name2": "Dummy",
+            "email2": "dummy@gmail.com",
+            "phone2": "1234567891"
+            "status": "Register"
           },
           {
             "imageLink": "https://drive.google.com/uc?export=download&id=1agXaQQOS78eD4SIFEGfgHhG2yPTLV2sG",
